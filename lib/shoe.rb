@@ -13,3 +13,4 @@ class shoe
     puts "The shoe has been repaired!"
     @condition = "new"
   end
+end
